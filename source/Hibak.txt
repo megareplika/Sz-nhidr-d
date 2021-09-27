@@ -1,0 +1,15 @@
+#001;A fájl nem található
+#002;Számításí hiba(hiányzó adat)
+#003;Hiba a statisztika mentésében
+#004;Rossz értékadás
+#005;Hibás Értékek
+#006;Előzmény nincs mentve
+#007;Előzmény betöltési hiba
+#008;Statisztika nincs mentve
+#009;Sikertelen Belépés
+#010;Élelmiszerek feltöltési hiba
+#011;Sikertelen regisztrálás
+#012;Sikertelen a statisztikamentése a serverre
+#013;Hiányzó Driver
+#014;Sikertelen kaja betöltés
+#015;Nincs kaja kiválasztva
